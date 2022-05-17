@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/AbhiTech123/static/css/main.34fcbe6b.css",
+    "main.js": "/AbhiTech123/static/js/main.735faaa6.js",
+    "static/media/SideImage.jpg": "/AbhiTech123/static/media/SideImage.ed4e5e93abb2b3c8cb00.jpg",
+    "static/media/web-dev.jpg": "/AbhiTech123/static/media/web-dev.ad3e54b8e8642456681a.jpg",
+    "static/media/internet-service-250x250.png": "/AbhiTech123/static/media/internet-service-250x250.a0defdf0210a51f61359.png",
+    "static/media/Software.jpg": "/AbhiTech123/static/media/Software.f40db401651728d0b251.jpg",
+    "index.html": "/AbhiTech123/index.html",
+    "main.34fcbe6b.css.map": "/AbhiTech123/static/css/main.34fcbe6b.css.map",
+    "main.735faaa6.js.map": "/AbhiTech123/static/js/main.735faaa6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34fcbe6b.css",
+    "static/js/main.735faaa6.js"
+  ]
+}
