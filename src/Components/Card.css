@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0px;
+
+}
+body{
+    height: 100%;
+}
+
+#card1{
+    display: flex;
+    flex-wrap: wrap;
+    /* margin: 10px; */
+    column-gap: 1rem;
+    margin-top: 2rem;
+}
+#h1_service{
+    text-align: center;
+    border-bottom: 2px solid black;
+    font-family: auto;
+}
+#h1contact{
+    text-align: center;
+    border-bottom: 2px solid black;
+    font-family: auto;
+}
+#btn{
+    width: 8rem;
+    color: blue;
+}
+#btn:hover{
+    color: aliceblue;
+}
+.footer{
+    margin-top: 10px;
+    background-color: lightgray;
+    text-align: center;
+    
+}

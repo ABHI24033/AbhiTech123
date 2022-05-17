@@ -1,0 +1,25 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Mulish:ital,wght@1,200&family=Oleo+Script+Swash+Caps&family=Prompt:ital,wght@1,100&family=Ubuntu:ital@1&display=swap');*/
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Mulish:ital,wght@0,300;1,200&family=Oleo+Script+Swash+Caps&family=Prompt:ital,wght@1,100&family=Ubuntu:ital@1&display=swap');
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Mulish', sans-serif;
+}
+.nav_bg{
+    background-color: #fff !important;
+}
+.active_class:hover{
+    font-weight: 400;
+    color: blue !important;
+    border-bottom: 2px solid blue !important;
+}
+.nav-link{
+    font-weight: 900;
+}
+
+.navbar-brand{
+    font-size: 2rem !important;
+    font-weight: 800;
+    color: #4cd1f3  !important;
+    font-family: sans-serif;
+}

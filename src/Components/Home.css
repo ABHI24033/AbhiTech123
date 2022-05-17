@@ -1,0 +1,25 @@
+.btn{
+    border-radius: 2rem;
+    color: #4cd1f3;
+}
+.btn:hover{
+    color: white;
+}
+.animated{
+    width: 490px;
+    height: 500px;
+    /*margin-left: 10%;*/
+}
+.b{
+    color: #4cd1f3;
+    font-size: xxx-large;
+    font-weight: 900;
+    font-family: sans-serif;
+}
+.heading{
+    margin-top: 8%;
+    margin-left: 3%;
+}
+.img{
+    text-align: right;
+}
